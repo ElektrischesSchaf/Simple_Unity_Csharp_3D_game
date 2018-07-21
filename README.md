@@ -6,7 +6,7 @@
 	Show the guidance when user preess "help" button.  
 ***
 ![Alt](https://github.com/ElektrischesSchaf/Simple_Unity_Csharp_3D_game/blob/master/snapshot/2.JPG)  
-***
+
 ![Alt](https://github.com/ElektrischesSchaf/Simple_Unity_Csharp_3D_game/blob/master/snapshot/3.JPG)  
 	Enter the game.  Red area will help you speed forward, whereas grey area will drag you backward.  
 ***
