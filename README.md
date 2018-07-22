@@ -1,6 +1,6 @@
 # Simple_Unity_Csharp_3D_game  
 ![Alt](https://github.com/ElektrischesSchaf/Simple_Unity_Csharp_3D_game/blob/master/snapshot/1.JPG) 
-	Game main menu  
+### Game main menu  
 ***
 ![Alt](https://github.com/ElektrischesSchaf/Simple_Unity_Csharp_3D_game/blob/master/snapshot/5.JPG)  
 ### Show the guidance when user preess "help" button.  
