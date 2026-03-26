@@ -1,6 +1,8 @@
 # Simple_Unity_Csharp_3D_game  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
 [![License](https://img.shields.io/badge/license-MIT-750014)](./LICENSE)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+---
 ![Alt](https://github.com/ElektrischesSchaf/Simple_Unity_Csharp_3D_game/blob/master/snapshot/1.JPG) 
 ### Game main menu  
 ***
